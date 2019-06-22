@@ -5,6 +5,7 @@ public class Git {
 	String name;
 	String location;
 	int yearsCoding;
+	String timeZone;
 	
 	Git(String newName, String yourLocation, int codingTenure) {
 		
